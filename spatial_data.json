@@ -1,0 +1,46 @@
+{
+    "double_cabinet": {
+        "x": -5.472,
+        "y": -1.576,
+        "z": 0.034,
+        "color": "brown",
+        "confidence": 0.9619,
+        "near": [
+            "cafe_table"
+        ]
+    },
+    "cafe_table": {
+        "x": 6.359,
+        "y": -1.27,
+        "z": 0.008,
+        "color": "gray",
+        "confidence": 0.9621,
+        "near": [
+            "double_cabinet"
+        ]
+    },
+    "table": {
+        "x": 3.206,
+        "y": 0.881,
+        "z": 0.008,
+        "color": "gray",
+        "confidence": 0.9557,
+        "near": []
+    },
+    "single_cabinet": {
+        "x": -6.699,
+        "y": 3.408,
+        "z": 0.008,
+        "color": "orange",
+        "confidence": 0.9501,
+        "near": []
+    },
+    "first_2015_trash_can": {
+        "x": 1.883,
+        "y": -4.894,
+        "z": 0.008,
+        "color": "gray",
+        "confidence": 0.9604,
+        "near": []
+    }
+}
