@@ -1,0 +1,200 @@
+{"id": 0, "instruction": "Cross the hallway and stop near the chair.", "goal_object": "chair", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 1, "instruction": "Walk past the door and stop by the window.", "goal_object": "window", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 2, "instruction": "Navigate to the carpet on the right side of the bedroom.", "goal_object": "carpet", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 3, "instruction": "Navigate to the plant near the window.", "goal_object": "plant", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 4, "instruction": "Navigate to the couch on the right side of the kitchen.", "goal_object": "couch", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 5, "instruction": "Enter the hallway and find the window.", "goal_object": "window", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 6, "instruction": "Find the door and stop next to it.", "goal_object": "door", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 7, "instruction": "The desk is straight ahead \u2014 go there.", "goal_object": "desk", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 8, "instruction": "Turn left and navigate to the door in the bedroom.", "goal_object": "door", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 9, "instruction": "Find the couch and stop next to it.", "goal_object": "couch", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 10, "instruction": "Turn left and navigate to the desk in the bedroom.", "goal_object": "desk", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 11, "instruction": "Enter the bedroom and find the door.", "goal_object": "door", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 12, "instruction": "Enter the living room and find the sofa.", "goal_object": "sofa", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 13, "instruction": "Move forward until you see the sofa, then stop.", "goal_object": "sofa", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 14, "instruction": "Go straight ahead until you reach the plant.", "goal_object": "plant", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 15, "instruction": "Head towards the sofa near the entrance.", "goal_object": "sofa", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 16, "instruction": "Cross the hallway and stop near the chair.", "goal_object": "chair", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 17, "instruction": "Go to the carpet in the bedroom.", "goal_object": "carpet", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 18, "instruction": "The plant is straight ahead \u2014 go there.", "goal_object": "plant", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 19, "instruction": "Locate the couch and approach it.", "goal_object": "couch", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 20, "instruction": "Turn right and go to the plant.", "goal_object": "plant", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 21, "instruction": "Cross the hallway and stop near the table.", "goal_object": "table", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 22, "instruction": "Walk past the door and stop by the table.", "goal_object": "table", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 23, "instruction": "Cross the hallway and stop near the plant.", "goal_object": "plant", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 24, "instruction": "Go to the couch in the hallway.", "goal_object": "couch", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 25, "instruction": "Navigate to the chair on the right side of the living room.", "goal_object": "chair", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 26, "instruction": "Head towards the carpet near the entrance.", "goal_object": "carpet", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 27, "instruction": "Head towards the desk near the entrance.", "goal_object": "desk", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 28, "instruction": "Go straight ahead until you reach the window.", "goal_object": "window", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 29, "instruction": "Enter the hallway and find the couch.", "goal_object": "couch", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 30, "instruction": "Turn left and navigate to the lamp in the hallway.", "goal_object": "lamp", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 31, "instruction": "Walk past the door and stop by the desk.", "goal_object": "desk", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 32, "instruction": "Navigate to the chair near the window.", "goal_object": "chair", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 33, "instruction": "Move forward until you see the chair, then stop.", "goal_object": "chair", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 34, "instruction": "Head towards the table near the entrance.", "goal_object": "table", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 35, "instruction": "Enter the bedroom and find the sofa.", "goal_object": "sofa", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 36, "instruction": "Turn left and navigate to the shelf in the living room.", "goal_object": "shelf", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 37, "instruction": "The desk is straight ahead \u2014 go there.", "goal_object": "desk", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 38, "instruction": "Walk past the door and stop by the shelf.", "goal_object": "shelf", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 39, "instruction": "Go to the bed in the living room.", "goal_object": "bed", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 40, "instruction": "Locate the lamp and approach it.", "goal_object": "lamp", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 41, "instruction": "Navigate to the table near the window.", "goal_object": "table", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 42, "instruction": "Go to the desk in the kitchen.", "goal_object": "desk", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 43, "instruction": "Enter the living room and find the door.", "goal_object": "door", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 44, "instruction": "Walk towards the door on your left.", "goal_object": "door", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 45, "instruction": "Locate the chair and approach it.", "goal_object": "chair", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 46, "instruction": "Walk towards the window on your left.", "goal_object": "window", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 47, "instruction": "Turn left and navigate to the window in the bedroom.", "goal_object": "window", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 48, "instruction": "Turn right and go to the door.", "goal_object": "door", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 49, "instruction": "Head towards the couch near the entrance.", "goal_object": "couch", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 50, "instruction": "Navigate to the shelf on the right side of the hallway.", "goal_object": "shelf", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 51, "instruction": "Locate the door and approach it.", "goal_object": "door", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 52, "instruction": "Enter the kitchen and find the window.", "goal_object": "window", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 53, "instruction": "Navigate to the sofa on the right side of the hallway.", "goal_object": "sofa", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 54, "instruction": "Navigate to the plant on the right side of the living room.", "goal_object": "plant", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 55, "instruction": "Turn right and go to the shelf.", "goal_object": "shelf", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 56, "instruction": "Navigate to the couch near the window.", "goal_object": "couch", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 57, "instruction": "Move forward until you see the couch, then stop.", "goal_object": "couch", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 58, "instruction": "Turn left and navigate to the door in the living room.", "goal_object": "door", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 59, "instruction": "Cross the hallway and stop near the plant.", "goal_object": "plant", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 60, "instruction": "Walk towards the window on your left.", "goal_object": "window", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 61, "instruction": "Turn left and navigate to the lamp in the bedroom.", "goal_object": "lamp", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 62, "instruction": "Enter the hallway and find the door.", "goal_object": "door", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 63, "instruction": "Move forward until you see the desk, then stop.", "goal_object": "desk", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 64, "instruction": "Navigate to the table near the window.", "goal_object": "table", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 65, "instruction": "Enter the living room and find the table.", "goal_object": "table", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 66, "instruction": "Cross the hallway and stop near the couch.", "goal_object": "couch", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 67, "instruction": "Walk towards the carpet on your left.", "goal_object": "carpet", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 68, "instruction": "The bed is straight ahead \u2014 go there.", "goal_object": "bed", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 69, "instruction": "Turn right and go to the lamp.", "goal_object": "lamp", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 70, "instruction": "Navigate to the sofa on the right side of the bedroom.", "goal_object": "sofa", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 71, "instruction": "Navigate to the carpet near the window.", "goal_object": "carpet", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 72, "instruction": "Locate the bed and approach it.", "goal_object": "bed", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 73, "instruction": "Walk past the door and stop by the bed.", "goal_object": "bed", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 74, "instruction": "Navigate to the sofa near the window.", "goal_object": "sofa", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 75, "instruction": "Cross the hallway and stop near the desk.", "goal_object": "desk", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 76, "instruction": "Go to the door in the living room.", "goal_object": "door", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 77, "instruction": "Enter the bedroom and find the table.", "goal_object": "table", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 78, "instruction": "Turn right and go to the door.", "goal_object": "door", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 79, "instruction": "Turn left and navigate to the sofa in the bedroom.", "goal_object": "sofa", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 80, "instruction": "Go straight ahead until you reach the door.", "goal_object": "door", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 81, "instruction": "Head towards the lamp near the entrance.", "goal_object": "lamp", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 82, "instruction": "Turn left and navigate to the shelf in the hallway.", "goal_object": "shelf", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 83, "instruction": "Go straight ahead until you reach the shelf.", "goal_object": "shelf", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 84, "instruction": "Head towards the table near the entrance.", "goal_object": "table", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 85, "instruction": "Walk past the door and stop by the door.", "goal_object": "door", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 86, "instruction": "Cross the hallway and stop near the door.", "goal_object": "door", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 87, "instruction": "Head towards the carpet near the entrance.", "goal_object": "carpet", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 88, "instruction": "Cross the hallway and stop near the shelf.", "goal_object": "shelf", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 89, "instruction": "Navigate to the bed on the right side of the bedroom.", "goal_object": "bed", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 90, "instruction": "Go straight ahead until you reach the window.", "goal_object": "window", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 91, "instruction": "Go to the plant in the hallway.", "goal_object": "plant", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 92, "instruction": "Enter the hallway and find the shelf.", "goal_object": "shelf", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 93, "instruction": "Go straight ahead until you reach the window.", "goal_object": "window", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 94, "instruction": "Find the chair and stop next to it.", "goal_object": "chair", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 95, "instruction": "Go straight ahead until you reach the door.", "goal_object": "door", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 96, "instruction": "Go to the couch in the kitchen.", "goal_object": "couch", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 97, "instruction": "Move forward until you see the carpet, then stop.", "goal_object": "carpet", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 98, "instruction": "Head towards the shelf near the entrance.", "goal_object": "shelf", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 99, "instruction": "Enter the bedroom and find the window.", "goal_object": "window", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 100, "instruction": "Move forward until you see the window, then stop.", "goal_object": "window", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 101, "instruction": "Turn right and go to the desk.", "goal_object": "desk", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 102, "instruction": "Go straight ahead until you reach the plant.", "goal_object": "plant", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 103, "instruction": "Navigate to the lamp on the right side of the hallway.", "goal_object": "lamp", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 104, "instruction": "Navigate to the door near the window.", "goal_object": "door", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 105, "instruction": "Locate the carpet and approach it.", "goal_object": "carpet", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 106, "instruction": "Locate the couch and approach it.", "goal_object": "couch", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 107, "instruction": "Turn left and navigate to the plant in the kitchen.", "goal_object": "plant", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 108, "instruction": "Enter the kitchen and find the chair.", "goal_object": "chair", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 109, "instruction": "Enter the kitchen and find the lamp.", "goal_object": "lamp", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 110, "instruction": "Enter the kitchen and find the shelf.", "goal_object": "shelf", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 111, "instruction": "Move forward until you see the carpet, then stop.", "goal_object": "carpet", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 112, "instruction": "Go to the chair in the kitchen.", "goal_object": "chair", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 113, "instruction": "Turn right and go to the table.", "goal_object": "table", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 114, "instruction": "Cross the hallway and stop near the door.", "goal_object": "door", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 115, "instruction": "Find the table and stop next to it.", "goal_object": "table", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 116, "instruction": "Enter the bedroom and find the window.", "goal_object": "window", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 117, "instruction": "Head towards the door near the entrance.", "goal_object": "door", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 118, "instruction": "Turn left and navigate to the bed in the living room.", "goal_object": "bed", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 119, "instruction": "Go straight ahead until you reach the carpet.", "goal_object": "carpet", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 120, "instruction": "Enter the bedroom and find the window.", "goal_object": "window", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 121, "instruction": "Walk towards the sofa on your left.", "goal_object": "sofa", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 122, "instruction": "Find the chair and stop next to it.", "goal_object": "chair", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 123, "instruction": "Enter the hallway and find the shelf.", "goal_object": "shelf", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 124, "instruction": "Go straight ahead until you reach the window.", "goal_object": "window", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 125, "instruction": "Head towards the bed near the entrance.", "goal_object": "bed", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 126, "instruction": "Cross the hallway and stop near the lamp.", "goal_object": "lamp", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 127, "instruction": "Enter the hallway and find the couch.", "goal_object": "couch", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 128, "instruction": "Walk past the door and stop by the carpet.", "goal_object": "carpet", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 129, "instruction": "Locate the desk and approach it.", "goal_object": "desk", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 130, "instruction": "Go straight ahead until you reach the plant.", "goal_object": "plant", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 131, "instruction": "Navigate to the window near the window.", "goal_object": "window", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 132, "instruction": "Cross the hallway and stop near the sofa.", "goal_object": "sofa", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 133, "instruction": "Head towards the sofa near the entrance.", "goal_object": "sofa", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 134, "instruction": "Walk past the door and stop by the carpet.", "goal_object": "carpet", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 135, "instruction": "Walk towards the window on your left.", "goal_object": "window", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 136, "instruction": "The carpet is straight ahead \u2014 go there.", "goal_object": "carpet", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 137, "instruction": "Go straight ahead until you reach the plant.", "goal_object": "plant", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 138, "instruction": "Navigate to the plant on the right side of the kitchen.", "goal_object": "plant", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 139, "instruction": "Find the carpet and stop next to it.", "goal_object": "carpet", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 140, "instruction": "Go to the bed in the kitchen.", "goal_object": "bed", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 141, "instruction": "Enter the hallway and find the table.", "goal_object": "table", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 142, "instruction": "Walk towards the window on your left.", "goal_object": "window", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 143, "instruction": "The couch is straight ahead \u2014 go there.", "goal_object": "couch", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 144, "instruction": "Cross the hallway and stop near the window.", "goal_object": "window", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 145, "instruction": "Go straight ahead until you reach the lamp.", "goal_object": "lamp", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 146, "instruction": "Navigate to the desk on the right side of the living room.", "goal_object": "desk", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 147, "instruction": "Go to the lamp in the bedroom.", "goal_object": "lamp", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 148, "instruction": "Find the table and stop next to it.", "goal_object": "table", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 149, "instruction": "Locate the sofa and approach it.", "goal_object": "sofa", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 150, "instruction": "Find the carpet and stop next to it.", "goal_object": "carpet", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 151, "instruction": "The plant is straight ahead \u2014 go there.", "goal_object": "plant", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 152, "instruction": "Go straight ahead until you reach the chair.", "goal_object": "chair", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 153, "instruction": "Move forward until you see the lamp, then stop.", "goal_object": "lamp", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 154, "instruction": "Walk past the door and stop by the door.", "goal_object": "door", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 155, "instruction": "The sofa is straight ahead \u2014 go there.", "goal_object": "sofa", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 156, "instruction": "Cross the hallway and stop near the door.", "goal_object": "door", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 157, "instruction": "Navigate to the chair on the right side of the kitchen.", "goal_object": "chair", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 158, "instruction": "Move forward until you see the bed, then stop.", "goal_object": "bed", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 159, "instruction": "Turn right and go to the table.", "goal_object": "table", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 160, "instruction": "Turn right and go to the shelf.", "goal_object": "shelf", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 161, "instruction": "Cross the hallway and stop near the chair.", "goal_object": "chair", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 162, "instruction": "Walk past the door and stop by the door.", "goal_object": "door", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 163, "instruction": "Find the desk and stop next to it.", "goal_object": "desk", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 164, "instruction": "Move forward until you see the shelf, then stop.", "goal_object": "shelf", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 165, "instruction": "Walk past the door and stop by the table.", "goal_object": "table", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 166, "instruction": "Navigate to the carpet near the window.", "goal_object": "carpet", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 167, "instruction": "Turn right and go to the table.", "goal_object": "table", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 168, "instruction": "Move forward until you see the bed, then stop.", "goal_object": "bed", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 169, "instruction": "Go straight ahead until you reach the sofa.", "goal_object": "sofa", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 170, "instruction": "Walk towards the window on your left.", "goal_object": "window", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 171, "instruction": "Head towards the sofa near the entrance.", "goal_object": "sofa", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 172, "instruction": "Turn right and go to the bed.", "goal_object": "bed", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 173, "instruction": "Walk towards the desk on your left.", "goal_object": "desk", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 174, "instruction": "Turn right and go to the carpet.", "goal_object": "carpet", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 175, "instruction": "Cross the hallway and stop near the bed.", "goal_object": "bed", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 176, "instruction": "Navigate to the window near the window.", "goal_object": "window", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 177, "instruction": "Navigate to the door on the right side of the living room.", "goal_object": "door", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 178, "instruction": "Turn right and go to the carpet.", "goal_object": "carpet", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 179, "instruction": "Locate the shelf and approach it.", "goal_object": "shelf", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 180, "instruction": "Find the lamp and stop next to it.", "goal_object": "lamp", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 181, "instruction": "Locate the sofa and approach it.", "goal_object": "sofa", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 182, "instruction": "Move forward until you see the plant, then stop.", "goal_object": "plant", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 183, "instruction": "Go to the lamp in the kitchen.", "goal_object": "lamp", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 184, "instruction": "Navigate to the couch near the window.", "goal_object": "couch", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 185, "instruction": "Navigate to the lamp on the right side of the hallway.", "goal_object": "lamp", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 186, "instruction": "Cross the hallway and stop near the lamp.", "goal_object": "lamp", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 187, "instruction": "Cross the hallway and stop near the plant.", "goal_object": "plant", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 188, "instruction": "Locate the carpet and approach it.", "goal_object": "carpet", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 189, "instruction": "Go straight ahead until you reach the plant.", "goal_object": "plant", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 190, "instruction": "Navigate to the lamp near the window.", "goal_object": "lamp", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 191, "instruction": "Locate the window and approach it.", "goal_object": "window", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 192, "instruction": "The carpet is straight ahead \u2014 go there.", "goal_object": "carpet", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 193, "instruction": "Turn right and go to the chair.", "goal_object": "chair", "room": "kitchen", "source": "synthetic_gazebo"}
+{"id": 194, "instruction": "Enter the bedroom and find the couch.", "goal_object": "couch", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 195, "instruction": "Move forward until you see the lamp, then stop.", "goal_object": "lamp", "room": "hallway", "source": "synthetic_gazebo"}
+{"id": 196, "instruction": "Go to the shelf in the living room.", "goal_object": "shelf", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 197, "instruction": "Cross the hallway and stop near the couch.", "goal_object": "couch", "room": "living room", "source": "synthetic_gazebo"}
+{"id": 198, "instruction": "Navigate to the chair near the window.", "goal_object": "chair", "room": "bedroom", "source": "synthetic_gazebo"}
+{"id": 199, "instruction": "Cross the hallway and stop near the desk.", "goal_object": "desk", "room": "bedroom", "source": "synthetic_gazebo"}

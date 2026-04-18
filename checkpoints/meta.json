@@ -1,0 +1,12 @@
+{
+  "classes": [
+    "cafe_table",
+    "double_cabinet",
+    "first_2015_trash_can",
+    "single_cabinet",
+    "table"
+  ],
+  "embed_dim": 512,
+  "best_val_acc": 0.9922,
+  "use_open_clip": true
+}

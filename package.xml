@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>vln_project</name>
+  <version>1.0.0</version>
+  <description>
+    Vision-Language Navigation with fine-tuned CLIP on TurtleBot3 waffle
+    in the turtlebot3_home_service_challenge Gazebo environment.
+  </description>
+  <maintainer email="gaurav@example.com">gaurav</maintainer>
+  <license>MIT</license>
+
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+  <exec_depend>nav_msgs</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <exec_depend>geometry_msgs</exec_depend>
+  <exec_depend>nav2_msgs</exec_depend>
+  <exec_depend>tf_transformations</exec_depend>
+  <exec_depend>cv_bridge</exec_depend>
+  <exec_depend>launch_ros</exec_depend>
+
+  <test_depend>ament_copyright</test_depend>
+  <test_depend>ament_flake8</test_depend>
+  <test_depend>ament_pep257</test_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
